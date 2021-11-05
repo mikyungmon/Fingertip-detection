@@ -279,7 +279,7 @@ signature함수 Ψ(s)는 손가락 끝 위치에서 최대값을 갖는다.
         제안된 평활화 알고리즘은 상당히 낮은 계산 비용으로 다른 알고리즘, 즉 Ramer-Douglas-Peucker 알고리즘(Misra et al., 2017)에 비해 경쟁력 있는 결과를 제공한다.
        
        
-#### ◾ 2.3 Character recognition ####
+#### ◾ 2.4 Character recognition ####
 
 그린 궤적이 어떤 문자인지 인식하는 단계이다.
 
